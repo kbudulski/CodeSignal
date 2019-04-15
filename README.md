@@ -5,7 +5,7 @@
  - [Arcade](#Arcade)
     - [Intro](#Intro)
     - [Databases](#Databases)
- - [Interview Practice](#Interview Practice)
+ - [Interview Practice](#Interview-Practice)
 
 
 
