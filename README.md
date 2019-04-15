@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://app.codesignal.com/profile/cassivellaunus">
+    <a href="https://app.codesignal.com/profile/cassivellaunus" target="_blank">
         <img height=150 src="https://codesignal.com/wp-content/uploads/2018/08/CS_logo_blue.png">
     </a>
 
