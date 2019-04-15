@@ -1,4 +1,7 @@
-[![enter image description here](https://codesignal.com/wp-content/uploads/2018/08/CS_logo_blue.png)](https://app.codesignal.com/profile/cassivellaunus)
+<p align="center">
+    <a href="https://app.codesignal.com/profile/cassivellaunus">
+        <img height=150 src="https://codesignal.com/wp-content/uploads/2018/08/CS_logo_blue.png">
+    </a>
 
 **Contents:**
 
