@@ -10,6 +10,8 @@ Solutions are written in Java and MySql.
 
 Don't forget to click on the logo above and visit my profile!
 
+If you want to join, follow this [link](https://app.codesignal.com/signup/SNcK2i3FtdnxkSsF4/main).
+
 
 
 **Contents:**
